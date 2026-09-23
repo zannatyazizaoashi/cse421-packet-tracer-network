@@ -1,6 +1,6 @@
 # CSE421 Packet Tracer Network Project
 
-A Cisco Packet Tracer project from CSE421. The original file name identifies it as a Group 7, Section 9 submission. The network's topology, configuration, and contributor roles have not yet been verified, so they are not described here.
+An individual Cisco Packet Tracer project by Zannaty Aziza for CSE421. The original file name includes "Group 7, Section 9"; it is retained unchanged. The network's topology and configuration have not yet been verified, so they are not described here.
 
 ## Project file
 
@@ -17,6 +17,5 @@ A Cisco Packet Tracer project from CSE421. The original file name identifies it 
 - Network purpose and topology diagram or screenshot.
 - Devices, IP addressing, routing, VLANs, and services actually used.
 - Connectivity tests and their results.
-- Contributor names and individual responsibilities, if this was a team project.
 
 The original `.pkt` file is preserved without modification. Packet Tracer was unavailable during this repository setup, so the network has not been run or validated here.
